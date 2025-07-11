@@ -2,122 +2,44 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# WhoamI
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+I'm a self-taught full-stack developer that enjoys tackling new challenges and is known for their ability to improve quickly using introspection and problem-solving. Ask me about one of the my ongoing projects. Check out some of my [projects](./project_review.html)
 
 * * *
 
-### Here is an unordered list:
+# Work
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## Current Role
+I serve as a Product/Integration Engineer, where I am involved in the entire lifecycle of product implementation, from initial brainstorming to project completion. My responsibilities encompass design, implementation, testing, and deployment, which has allowed me to gain experience with a diverse range of technologies.
 
-### And an ordered list:
+## Key Responsibilities
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
+###### My primary focus is on developing solutions that enable both internal and external stakeholders to effectively investigate insurance coverage. This includes:
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Discovering Updated Insurance Coverage:</dt>
+  <dd>Ensuring that users have access to the latest information regarding insurance policies.</dd>
+<dt>Managing Prior Authorization Updates:</dt> 
+  <dd>Keeping track of changes in prior authorization requirements.</dd>
+<dt>Identifying Drug Alternatives:</dt>
+  <dd>Providing options for alternative medications when necessary.</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Additionally, I am frequently assigned Proof of Concept (POC) projects to test market viability. If a product or feature demonstrates success, I collaborate with the team to prepare it for production and subsequently hand it off to another team for further development.
 
-```
-The final element.
-```
+## Daily Insights
+###### In my day-to-day activities, I engage in the following tasks:
+
+<dl>
+<dt>API Development:</dt>
+  <dd> Create and maintain internal APIs that facilitate data exchange between internal customers and external clients.</dd>
+<dt>Front-End Application Development:</dt>
+  <dd>Build and enhance front-end applications for both internal and external users.</dd>
+<dt>Technical Planning:</dt>
+  <dd> Develop project-specific technical requirements and establish technical standards for integrations and other projects.</dd>
+<dt>Scalable Architecture Desig</dt>
+  <dd>Designed a scalable microservices architecture that improved system performance and reduced downtime.  Led a project to optimize database queries and indexing strategies.</dd>
+<dt>Product Ideation:</dt>
+  <dd>Deconstruct new product ideas to effectively plan and organize technical work across multiple applications.</dd>
+</dl>

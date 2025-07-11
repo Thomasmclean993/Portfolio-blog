@@ -1,5 +1,7 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
+title: Hello/World
+description: My Name is Thomas and I'm a Full Stack Software Engineer, Game/DND Master and Cerified Nerd. Welcome to My Corner of the Internet.
+github:
+  repository_url: https://github.com/Thomasmclean993
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
