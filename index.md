@@ -5,7 +5,7 @@ title: Home
 
 # WhoamI
 
-I'm a self-taught full-stack developer that enjoys tackling new challenges and is known for their ability to improve quickly using introspection and problem-solving. Ask me about one of the my ongoing projects. Check out some of my [projects](./project_review.html)
+I'm a self-taught full-stack developer that enjoys tackling new challenges and is known for their ability to improve quickly using introspection and problem-solving. Ask me about one of the my ongoing projects. Check out some of my projects.
 
 * * *
 
